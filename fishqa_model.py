@@ -1,3 +1,5 @@
+###BASED ON: https://github.com/LLluoling/FISHQA ###
+
 import numpy as np
 
 def length(sequences):
